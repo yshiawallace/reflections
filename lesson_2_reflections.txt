@@ -4,3 +4,6 @@ Now that you have your workspace set up, what do you want to try using Git for?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 - the staging area allows you to add files that will be then bundled into a commit together
 -it allows you to see the files that will be bundled together in a commit and which one's won't
+
+How can you use the staging area to make sure you have one commit per logical change?
+- You can use the staging are to compage the working directory with the most recent commit (which is in the staging area), and review what changes you have made. If they are not loggical changes, you can modify your file before you add and commit.
