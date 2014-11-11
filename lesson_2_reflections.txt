@@ -1,0 +1,6 @@
+Now that you have your workspace set up, what do you want to try using Git for?
+- making a project!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- the staging area allows you to add files that will be then bundled into a commit together
+-it allows you to see the files that will be bundled together in a commit and which one's won't
