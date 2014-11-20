@@ -1,0 +1,7 @@
+14-11-10 (add these notes to the bottom of main 'reflections' document on my own computer)
+
+How might using version control make you more confident to make changes that could break something?
+- If you are diligent at saving your work at logical incremental stages, you know that you can always walk backwards and retrace your steps to where the error was introduced
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- a project
